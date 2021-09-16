@@ -12,7 +12,7 @@
 
 Here is some sample ~~C++~~ Python code:
 
-'''python:
+'''
 while(True):
 	print("Hello World!")
 '''
