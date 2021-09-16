@@ -12,12 +12,9 @@
 
 Here is some sample ~~C++~~ Python code:
 
-'''
+> while(True):
+>	 print("Hello World!")
 
-while(True):
-	print("Hello World!")
-
-'''
 
 | heading | A1 | A2 | A3 |
 | --- | ---- | --- | --- |
