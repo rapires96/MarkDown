@@ -5,7 +5,7 @@
 
 - first bullet point 
 - second bullet point 
-	1. follow [this url](www.linkedin.com/in/rafael-pires-orozco-masterstudent) to my Linkedin
+	1. follow [this url](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) to my Linkedin
 	2. the image below is *[Lena](https://en.wikipedia.org/wiki/Lenna)*
 
 ![Lena](https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.png)
